@@ -16,7 +16,7 @@ const books = [
     title: "Letters from a Skeptic",
     author: "Gregory A. Boyd & Edward Boyd",
     image: "/images/letters-from-skeptic.jpg",
-    link: "https://www.amazon.com/Letters-Skeptic-Son-Wrestle-Questions/dp/0781437024",
+    link: "https://www.amazon.com/Letters-Skeptic-Boyd-Gregory-Paperback/dp/B008AU997C",
   },
   {
     title: "Mere Christianity",
